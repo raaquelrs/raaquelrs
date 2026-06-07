@@ -24,15 +24,6 @@ Search books via OpenLibrary API, mark them as reading/read, and rate them.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raaqueel05&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaqueel05&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
 ### 📫 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-raaqueel05-181717?style=flat&logo=github)](https://github.com/raaqueel05)
