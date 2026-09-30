@@ -17,4 +17,4 @@ Computer Engineering student passionate about building clean, functional softwar
 
 ### 📫 Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-raaqueel05-181717?style=flat&logo=github)](https://github.com/raaqueel05)
+[![GitHub](https://img.shields.io/badge/GitHub-raaqueel05-181717?style=flat&logo=github)](https://github.com/raaquelrs)
