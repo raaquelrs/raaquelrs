@@ -15,20 +15,6 @@ Computer Engineering student passionate about building clean, functional softwar
 
 ---
 
-### 📌 Featured Projects
-
-#### 🗓️ [Planify](https://github.com/raaqueel05/Planify)
-An intelligent backend system designed to generate customized academic study schedules. 
-* Built with **Spring Boot 4**, **Java 26**, and **Spring Data JPA / MySQL**.
-* Integrates **Groq API (Llama 3.1)** to transform custom exam payloads into dynamically structured JSON study blocks.
-* Uses modern data binding and object mapping with Jackson modules (`jsr310`) for strict timeline parsing.
-
-#### 📚 [BookSaver](https://github.com/raaqueel05/bookSaver)
-A desktop app to track your reading list — built with Spring Boot, Thymeleaf, and JavaFX.  
-* Search books via OpenLibrary API, mark them as reading/read, and rate them.
-
----
-
 ### 📫 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-raaqueel05-181717?style=flat&logo=github)](https://github.com/raaqueel05)
